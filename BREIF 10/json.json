@@ -1,0 +1,283 @@
+[
+    {
+
+
+    "ID" : 1,
+    "désignation" :"Lenovo",
+    "Prix" : 5300,
+    "catégorie" : "Pc Portables d'occasion",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] , 
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 2,
+    "désignation" :"Lenovo i7",
+    "Prix" : 7200,
+    "catégorie" : "Pc Portables d'occasion",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 3,
+    "désignation" :"HP i5",
+    "Prix" : 4300,
+    "catégorie" : "Pc Portables d'occasion",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 4,
+    "désignation" :"Lenovo i5",
+    "Prix" : 4500,
+    "catégorie" : "Pc Portables d'occasion",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 5,
+    "désignation" :"HP i7",
+    "Prix" : 5190,
+    "catégorie" : "Pc Portables d'occasion",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 6,
+    "désignation" :"Lenovo ThinkPad i5",
+    "Prix" : 7999,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 7,
+    "désignation" :"Lenovo ThinkPad X1",
+    "Prix" : 5300,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 8,
+    "désignation" :"Lenovo",
+    "Prix" : 5300,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+{
+    "ID" : 9,
+    "désignation" :"Dell Latitude i7",
+    "Prix" : 4999,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{  "ID" : 10,
+    "désignation" :"HP EliteBook i5",
+    "Prix" : 7199,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+    "ID" : 11,
+    "désignation" :"HP EliteBook i7",
+    "Prix" : 7999,
+    "catégorie" : "Ultrabooks",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 12,
+    "désignation" :"Macbook Air i5",
+    "Prix" :  5999,
+    "catégorie" : "Macbook",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+"ID" : 13,
+    "désignation" :"Apple MacBook Pro 14",
+    "Prix" : 25390,
+    "catégorie" : "Macbook",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{   "ID" : 14,
+    "désignation" :"Apple MacBook Pro 16",
+    "Prix" : 31790,
+    "catégorie" : "Macbook",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 15,
+    "désignation" :"Apple MacBook Air 13",
+    "Prix" : 12999,
+    "catégorie" : "MacBook",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 16,
+    "désignation" :"Apple MacBook Pro 13",
+    "Prix" : 17299,
+    "catégorie" : "MacBook",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 17,
+    "désignation" :"HP i5",
+    "Prix" : 7199,
+    "catégorie" : "Pc Tactiles",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+
+    "ID" : 18,
+    "désignation" :"HP i5",
+    "Prix" : 7999,
+    "catégorie" : "Pc Tactiles",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+
+{
+"ID" : 19,
+    "désignation" :"HP i3",
+    "Prix" : 7920,
+    "catégorie" : "Pc Tactiles",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+
+},
+
+{
+
+    "ID" : 20,
+    "désignation" : "PS Gaming ASUS M15",
+    "Prix" : 24990,
+    "catégorie" : "Ordinateur Portable Gamer",
+    "disponibilité" : ["Tangier","Fes","Marrakech"] ,
+    "fournisseur" : {
+        "reseausociale" : "Les pc du maroc"  ,
+        "Adresse" : "Maroc"
+    }
+}
+
+]
